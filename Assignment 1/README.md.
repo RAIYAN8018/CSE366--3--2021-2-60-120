@@ -1,4 +1,4 @@
-# Assignment 1: Dynamic Robot Movement Simulation
+# Assignment 1: Enhanced Dynamic Robot Movement Simulation
 This folder contains all the deliverables for the "Dynamic Robot Movement Simulation" project.
 ## Files
 - `robot_simulation.ipynb`: Assignment 1/Assignment_1_(2021_2_60_120).ipynb.
@@ -6,4 +6,4 @@ This folder contains all the deliverables for the "Dynamic Robot Movement Simula
 
 ## Running the Simulation
 To run the simulation, ensure you have Jupyter Notebook installed and open
-`robot_simulation.ipynb`.
+`Assignment 1/Assignment_1_(2021_2_60_120).ipynb`.
