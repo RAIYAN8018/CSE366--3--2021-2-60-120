@@ -2,7 +2,7 @@
 This folder contains all the deliverables for the "Dynamic Robot Movement Simulation" project.
 ## Files
 - `robot_simulation.ipynb`: Assignment 1/Assignment_1_(2021_2_60_120).ipynb.
-- `project_report.pdf`: A detailed report of the project.
+- `project_report.pdf`: Assignment 1/CSE366 Assignment Report 1.pdf.
 
 ## Running the Simulation
 To run the simulation, ensure you have Jupyter Notebook installed and open
